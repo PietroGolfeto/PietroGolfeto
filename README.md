@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Pietro Golfeto 👋
 
-<!--
-**PietroGolfeto/PietroGolfeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **About Me:**
 
-Here are some ideas to get you started:
+- 💻 Computer science student at Unicamp
+- Undergraduate Researcher at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC - Unicamp)
+- Interested in artificial intelligence, data science and software development
+- Always looking for new projects to work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+
+- 🌐 **Personal Website:** [pietrogolfeto.github.io](https://pietrogolfeto.github.io/)
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pietro-golfeto-ba2429235/)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red)](mailto:pggolfeto@gmail.com)
