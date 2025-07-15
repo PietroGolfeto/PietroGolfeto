@@ -2,7 +2,7 @@
 
 🎓 **About Me:**
 
-  - 💻 **Computer Science** student at Unicamp, graduating in July 2026.
+  - 💻 **Computer Science** student at Unicamp, graduating in December 2026.
   - 🤖 **Software Developer Intern** at SiDi on the Speech Processing Team, developing NLP and Speech Recognition solutions for Samsung's Bixby.
   - 🔬 **Undergraduate Researcher** at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC - Unicamp), finalizing a publication on Bayesian Optimization for financial applications and now exploring Reinforcement Learning.
   - 🧠 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
