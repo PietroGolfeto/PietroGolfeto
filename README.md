@@ -3,27 +3,28 @@
 🎓 **About Me:**
 
   - 💻 **Computer Science** student at Unicamp, graduating in December 2026.
-  - 🤖 **Software Developer Intern** at SiDi on the Speech Processing Team, developing NLP and Speech Recognition solutions for Samsung's Bixby.
-  - 🔬 **Undergraduate Researcher** at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC - Unicamp), finalizing a publication on Bayesian Optimization for financial applications and now exploring Reinforcement Learning.
-  - 🧠 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-  - 🏆 Award-winner in national and international mathematics and science Olympiads (AIMO, OBMEP, OBFEP, OBA).
-  - 🌱 Always looking for new projects and opportunities to innovate and collaborate.
+  - 🚀 **Machine Learning Engineer Intern** at Nubank AI Core, building Foundation Models and engineering pipelines for the largest digital bank outside Asia.
+  - 🔬 **Undergraduate Researcher** at the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC / Recod.ai), finalizing a publication on autonomous agents for financial modeling and tackling concept drift in non-stationary environments.
+  - 📱 Previously **Software Developer Intern** at SiDi, where I shipped core Speech & NLP models for Samsung's Bixby, impacting millions of devices globally.
+  - 🌍 **Global Finalist** in the NASA Space Apps Challenge 2025 (Top 0.24% worldwide).
+  - 🏆 Award-winner in national and international mathematics and science Olympiads, and ranked Top 25% in Brazil at the ICPC Latin America Regionals.
+  - 🌱 Always looking for new projects and opportunities to innovate and collaborate in AI, ML, and distributed systems.
     
 ## 🛠 Core Skills
 
-  - **Artificial Intelligence (AI) & Machine Learning (ML)**
-  - **Data Science & Analytics**
-  - **Software Development (Python)**
+  - **Machine Learning Engineering & MLOps** (PyTorch, Ray, Anyscale, Kubeflow, Docker)
+  - **Artificial Intelligence & Deep Learning**
+  - **Distributed Systems & Cloud Computing**
   - **Natural Language Processing (NLP) & Speech Recognition**
-  - **Competitive Programming**
+  - **Software Development** (Python, C++)
+  - **Data Science, Analytics & Statistical Benchmarking**
     
 ## 🛠 Projects
 
-- 🔬 **Dynamic Credit Thresholding via Bayesian Optimization:** My undergraduate research project, developed with Prof. Dr. Rafael Izbicki and Prof. Dr. Marcos M. Raimundo. This work introduces a framework to dynamically adapt credit scoring thresholds in non-stationary economic environments, tackling the challenge of concept drift. <!-- The system uses a Gaussian Process to model the financial loss function over time, guided by a custom, risk-aware acquisition function to make decisions. Tested on synthetic, FICO, and Lending Club data, the goal is to create an adaptive agent that minimizes long-term financial losses, outperforming traditional static models. -->
-- 📊 [**Ethical AI for Chikungunya Outcome Prediction**](https://github.com/PietroGolfeto/DataSUS-Chikungunya-ML): Predicted hospitalization outcomes using models trained with nested cross-validation and resampling techniques to handle severe class imbalance. The project includes a comprehensive fairness analysis that mitigates demographic bias and achieves equitable performance with a minimal accuracy trade-off.
-- 🚀 [**Chemosymphony (NASA Space Apps 2024)**](https://chemosymphony.github.io/): As Team Lead, I guided this project exploring life via chemosynthesis on exoplanets. My role was centered on scientific research and project leadership rather than coding. **[Play the Game](https://chemosymphony.github.io/) | [Watch the Demo](https://www.youtube.com/watch?v=XjqyQH0NvNE)**
-- 📊 [**Food Database Analysis**](https://github.com/PietroGolfeto/mc536-grupoVIRUS): This collaborative project involved developing a model to group foods by nutritional similarity, aiming to scientifically distinguish concepts like 'diet' vs. 'balanced.' I was responsible for the foundational data work, including data curation, wrangling, designing the database schema (ER diagram), and developing key visualizations.
-- 📊 [**Analysis of College Graduate Salaries**](https://github.com/PietroGolfeto/College_Salaries): Investigated US college graduate salaries by major and region through data analysis and visualization (Pandas, Matplotlib). Developed predictive models, including Linear Regression and a Multilayer Perceptron (MLP), to explore salary trends.
+- 🌍 [**Project A.T.L.A.S. (NASA Space Apps 2025 Global Finalist)**](https://atlas-webapp-nu.vercel.app/): Led the A.T.L.A.S. team to the Top 45 globally out of 18,860 submissions. Directed the integration of Generative AI and NASA GIBS data to build a high-performance 3D interactive web experience that personifies NASA's Terra satellite to visualize climate causality.
+- 🛣️ [**Route Orchestrator: Logistics Optimization Suite**](https://github.com/code-lucasgabriel/route-orchestrator): Co-developed a high-performance optimization suite for the Heterogeneous Fixed Fleet Vehicle Routing Problem (HFFVRPTW). Built a parallel batch processing engine to execute 236+ instances concurrently and designed a complete statistical analysis framework to rigorously benchmark algorithm performance.
+- 🔬 **Autonomous Agents for Financial Modeling:** My undergraduate research project at H.IAAC. This work introduces a self-learning framework to adapt to non-stationary economic environments, tackling the challenge of concept drift and sample bias. The goal is to create an adaptive agent that minimizes long-term financial losses, outperforming traditional static credit scoring models.
+- 📊 [**Ethical AI for Chikungunya Outcome Prediction**](https://github.com/PietroGolfeto/DataSUS-Chikungunya-ML): Predicted hospitalization outcomes using models trained with nested cross-validation and resampling techniques to handle severe class imbalance. The project includes a comprehensive fairness analysis that mitigates demographic bias (reducing the fairness gap by ~93%) and achieves equitable performance with a minimal accuracy trade-off.
 - 🌐 **Personal Website:** [pietrogolfeto.github.io](https://pietrogolfeto.github.io/)
 
 ## 📫 Get in Touch
